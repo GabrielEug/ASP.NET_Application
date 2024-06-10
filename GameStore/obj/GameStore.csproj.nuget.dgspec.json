@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj": {}
+    "C:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj": {
+    "C:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj",
+        "projectUniqueName": "C:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj",
         "projectName": "GameStore",
-        "projectPath": "c:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj",
+        "projectPath": "C:\\Projects\\ASP.NET_Application\\GameStore\\GameStore.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\ASP.NET_Application\\GameStore\\obj\\",
+        "outputPath": "C:\\Projects\\ASP.NET_Application\\GameStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

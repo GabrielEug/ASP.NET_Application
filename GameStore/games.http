@@ -1,0 +1,33 @@
+GET http://localhost:5159/games
+
+###
+GET http://localhost:5159/games/2
+
+###
+GET http://localhost:5159/games/genre/Roleplay
+
+###
+POST http://localhost:5159/games
+Content-Type: application/json
+
+{
+    "name": "League of Legends",
+    "genre": "Fight",
+    "price": 19.99,
+    "releaseDate": "2010-11-18"
+}
+
+###
+PUT http://localhost:5159/games/5
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Elden Ring - DLC",
+    "genre": "Roleplay",
+    "price": 9.99,
+    "releaseDate": "2021-06-20"
+}
+
+###
+DELETE http://localhost:5159/games/2
