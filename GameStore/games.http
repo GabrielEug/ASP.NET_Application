@@ -11,7 +11,7 @@ POST http://localhost:5159/games
 Content-Type: application/json
 
 {
-    "name": "League of Legends",
+    //"name": "League of Legends",
     "genre": "Fight",
     "price": 19.99,
     "releaseDate": "2010-11-18"
@@ -24,7 +24,7 @@ Content-Type: application/json
 {
     "id": 1,
     "name": "Elden Ring - DLC",
-    "genre": "Roleplay",
+    //"genre": "Roleplay",
     "price": 9.99,
     "releaseDate": "2021-06-20"
 }
